@@ -1,2 +1,1 @@
-<center><img width="1920" height="1080" alt="sdads" src="https://github.com/user-attachments/assets/ad5328c8-3cda-4830-8c78-f444e4e04f52" /></center>
-
+<center><img width="666" height="375" alt="dfsdfdhy" src="https://github.com/user-attachments/assets/37bc01c1-9085-437a-8d12-8b30890db149" /></center>
