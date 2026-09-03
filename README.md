@@ -6,4 +6,4 @@ https://komarev.com/ghpvc/?username=puppyboyy&label=PROFILE+VIEWS
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lqgiddaw2hepxph02dmcmzbc7&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9ed0ff&bar_color_cover=true&mode=dark">
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=puppyboyy&style=plastic&color=9ec5fe&label=·✶·" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=puppyboyy&style=plastic&color=9ec5fe&label=⊱·✶·⊰" alt="Profile Views">
