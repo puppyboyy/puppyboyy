@@ -6,7 +6,7 @@
 <p align="center">
 ════════════════════════════════════════ <br>
  <br>
-  ‿̩͙‿੭　∔⠀ৎ‿̩͙‿ 
+  ‿̩͙‿੭　dₐᵢₙ ₒᵣ ₙₐᵥᵢ ˖⠀𓇬⠀˖ ₕₑ / ₕᵢₘ ˖⠀𓇬⠀˖ ₐₛₑₐₙ⠀ৎ‿̩͙‿ 
  <br>
 ════════════════════════════════════════
 </p>
@@ -14,6 +14,3 @@
 <img width="736" alt="tumblr_8b0e7cbec107ea178d646b226171a44a_e77f4720_1280" src="https://github.com/user-attachments/assets/74b828c1-ef4d-4721-b70c-7edee887945c" />
  </p>
 
-import gradient from 'gradient-string';
-
-console.log(gradient(['cyan', 'pink'])('Hello world!'));
