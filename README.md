@@ -1,3 +1,3 @@
 <center><img width="1587" height="2245" alt="dsdssgtdts" src="https://github.com/user-attachments/assets/5d35c231-53a4-443f-bb41-7059b3bad49e" /></center>
-<center><img width="1000" height="137" alt="tumblr_f2792ef9fc17e62c9020f79372b1de70_7e8b2a91_1280" src="https://github.com/user-attachments/assets/50773d15-2f0b-4157-80a0-a2e8740848d1" /></center>
+<center><img width="736" height="287" alt="tumblr_f24e9e5aa16c4923fedf48ad283b75bb_9d2ade97_1280" src="https://github.com/user-attachments/assets/54583c40-24ca-42c9-8b7b-09671de6c5a3" /></center>
 
